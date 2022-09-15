@@ -3,24 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/drawable/arrow_back.xml" value="0.1285" />
         <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/drawable/button_image_icon.xml" value="0.1285" />
         <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/drawable/google_button_icon.xml" value="0.1285" />
-        <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/drawable/ic_baseline_cloud_upload_24.xml" value="0.1285" />
-        <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/drawable/musify_logo.xml" value="0.1285" />
         <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/drawable/rounded_button.xml" value="0.1285" />
-        <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/drawable/rounded_commentfield.xml" value="0.1285" />
         <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/drawable/rounded_textfield.xml" value="0.1285" />
-        <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/drawable/square.xml" value="0.1285" />
-        <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/drawable/upload.xml" value="0.1285" />
-        <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/drawable/upload_xml.xml" value="0.1285" />
-        <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/layout/activity_add_playlist.xml" value="0.25" />
         <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/layout/activity_sign_in.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/layout/activity_sign_up.xml" value="0.21" />
         <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/layout/activity_signin_withaccount.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/layout/activity_song_title.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/layout/activity_upload_music.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
