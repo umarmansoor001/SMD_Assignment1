@@ -5,9 +5,11 @@
       <map>
         <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/drawable/button_image_icon.xml" value="0.1285" />
         <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/drawable/google_button_icon.xml" value="0.1285" />
+        <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/drawable/musify_logo.xml" value="0.1285" />
         <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/drawable/rounded_button.xml" value="0.1285" />
         <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/drawable/rounded_textfield.xml" value="0.1285" />
         <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/layout/activity_sign_in.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/layout/activity_sign_up.xml" value="0.21" />
         <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/layout/activity_signin_withaccount.xml" value="0.20416666666666666" />
       </map>
