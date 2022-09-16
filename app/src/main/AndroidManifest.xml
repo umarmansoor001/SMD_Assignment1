@@ -14,6 +14,9 @@
         android:theme="@style/Theme.I190594"
         tools:targetApi="31">
         <activity
+            android:name=".select_playlist"
+            android:exported="false" />
+        <activity
             android:name=".signin_withaccount"
             android:exported="false" />
         <activity
