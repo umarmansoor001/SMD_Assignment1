@@ -14,6 +14,9 @@
         android:theme="@style/Theme.I190594"
         tools:targetApi="31">
         <activity
+            android:name=".Listen_later"
+            android:exported="false" />
+        <activity
             android:name=".Recent_searches"
             android:exported="false" />
         <activity
