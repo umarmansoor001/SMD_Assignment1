@@ -7,6 +7,7 @@
         <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/drawable/add_white_adj.xml" value="0.1285" />
         <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/drawable/button_image_icon.xml" value="0.1285" />
         <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/drawable/circle.xml" value="0.1285" />
+        <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/drawable/circle_profile.xml" value="0.15" />
         <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/drawable/google_button_icon.xml" value="0.1285" />
         <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/drawable/rounded_button.xml" value="0.1285" />
         <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/drawable/rounded_commentfield.xml" value="0.1285" />
@@ -16,7 +17,9 @@
         <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/drawable/upload_xml.xml" value="0.1285" />
         <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/drawable/vertical_rect.xml" value="0.1285" />
         <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/layout/activity_add_playlist.xml" value="0.151268115942029" />
+        <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/layout/activity_edit_profile.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/layout/activity_profile.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/layout/activity_record1.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/layout/activity_record2.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/umarm/AndroidStudioProjects/i190594/app/src/main/res/layout/activity_record3.xml" value="0.20416666666666666" />

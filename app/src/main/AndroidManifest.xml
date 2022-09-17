@@ -14,6 +14,12 @@
         android:theme="@style/Theme.I190594"
         tools:targetApi="31">
         <activity
+            android:name=".Edit_profile"
+            android:exported="false" />
+        <activity
+            android:name=".Profile"
+            android:exported="false" />
+        <activity
             android:name=".Song_title_3"
             android:exported="false" />
         <activity
