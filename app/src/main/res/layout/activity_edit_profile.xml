@@ -94,8 +94,8 @@
                 android:layout_margin="10dp"
                 android:background="@color/white"
                 android:inputType="textPersonName"
-                android:text="Name"
-                android:textColor="@color/corn"
+                android:hint="Name"
+                android:textColorHint="@color/corn"
                 android:paddingLeft="10dp"
                 />
         </LinearLayout>
