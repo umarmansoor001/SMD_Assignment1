@@ -53,57 +53,147 @@
             />
     </LinearLayout>
     <LinearLayout
-        android:layout_weight="0.2"
+        android:layout_weight="0.4"
         android:layout_width="match_parent"
         android:layout_height="0dp">
-        <RelativeLayout
-            android:layout_width="wrap_content"
+        <ImageView
+            android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:gravity="bottom"
+            android:src="@drawable/despacitofull"
             >
-
-        </RelativeLayout>
+        </ImageView>
 
     </LinearLayout>
     <LinearLayout
-        android:layout_weight="0.5"
-        android:weightSum="5"
+        android:layout_weight="0.15"
+        android:weightSum="3"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:paddingBottom="10dp"
         >
-
         <RelativeLayout
-            android:layout_weight="5"
+            android:layout_weight="1"
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:gravity="bottom"
-            >
-
-            <EditText
-                android:id="@+id/comment2"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:ems="10"
-                android:inputType="textPersonName"
-                android:background="@drawable/rounded_commentfield"
-                android:textColorHint="#ffffff"
-                android:hint="Post a comment"
-                android:paddingLeft="20dp"
-                />
-        </RelativeLayout>
-
-        <RelativeLayout
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:gravity="bottom"
+            android:gravity="center_vertical|right"
             >
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:src="@drawable/submit_button"
-                ></ImageView>
+                android:src="@drawable/rewind"
+                />
         </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical|center_horizontal"
+            >
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/resume"
+                />
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            >
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/fast"
+                />
+        </RelativeLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_weight="0.15"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+    >
+        <LinearLayout
+            android:layout_weight="0.05"
+            android:layout_width="match_parent"
+            android:layout_height="0dp">
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_weight="0.1"
+            android:weightSum="5"
+            android:layout_width="match_parent"
+            android:layout_height="0dp">
+
+            <RelativeLayout
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical|right"
+                >
+
+                <ImageView
+                    android:paddingRight="10dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/love2"
+                    />
+            </RelativeLayout>
+            <RelativeLayout
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical|center_horizontal"
+                >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/download"
+                    />
+            </RelativeLayout>
+            <RelativeLayout
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical|center_horizontal"
+                >
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/playlist"
+                    />
+            </RelativeLayout>
+            <RelativeLayout
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical|center_horizontal"
+                >
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/message"
+                    />
+            </RelativeLayout>
+            <RelativeLayout
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                >
+                <ImageView
+                    android:paddingLeft="10dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/threedots"
+                    />
+            </RelativeLayout>
+        </LinearLayout>
+
     </LinearLayout>
     <LinearLayout
         android:layout_weight="0.05"
