@@ -7,7 +7,8 @@
     android:background="@color/black"
     android:orientation="vertical"
     android:weightSum="1"
-    tools:context=".Listen_later">
+    tools:context=".Liked_1">
+
 
     <LinearLayout
         android:layout_weight="0.1"
@@ -21,7 +22,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:text="Listen Later"
+            android:text="Liked"
             android:textColor="#FFFFFF"
             android:textSize="40dp"
             android:gravity="center_vertical|center_horizontal"
@@ -65,8 +66,7 @@
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@drawable/despacito"
-                    android:layout_margin="5dp"
+                    android:src="@drawable/playlist_icon"
                     ></ImageView>
 
             </LinearLayout>
@@ -79,11 +79,12 @@
                 <LinearLayout
                     android:layout_weight="0.5"
                     android:layout_width="match_parent"
-                    android:layout_height="0dp">
+                    android:layout_height="0dp"
+                    >
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:text="Song Name"
+                        android:text="Playlist 1"
                         android:textColor="@color/white"
                         android:textSize="18dp"
                         android:paddingLeft="20dp"
@@ -135,10 +136,10 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent">
                 <ImageView
-                    android:layout_margin="5dp"
+
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@drawable/despacito"
+                    android:src="@drawable/playlist_icon"
                     ></ImageView>
 
             </LinearLayout>
@@ -155,7 +156,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:text="Song Name"
+                        android:text="Playlist 2"
                         android:textColor="@color/white"
                         android:textSize="18dp"
                         android:paddingLeft="20dp"
@@ -241,7 +242,6 @@
             android:layout_weight="1"
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:background="@color/black"
             android:gravity="center_horizontal|bottom"
             >
             <ImageView
@@ -304,7 +304,6 @@
             android:layout_weight="1"
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:background="@color/black"
             android:gravity="center_horizontal|center_vertical"
             >
             <TextView
@@ -316,7 +315,6 @@
                 />
         </RelativeLayout>
     </LinearLayout>
-
 
 
 
