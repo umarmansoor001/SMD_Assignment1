@@ -116,12 +116,14 @@
         android:gravity="center_vertical"
         android:layout_gravity="right"
         >
-        <Button
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/button"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="@drawable/rounded_button"
             android:text="Add Playlist"
+            android:textSize="10dp"
+            android:textColor="@color/white"
             />
     </LinearLayout>
 
